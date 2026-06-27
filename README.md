@@ -7,6 +7,22 @@ Kova cliを学ぶためのサンプルリポジトリ
 npm install -g @komlock_lab/kova && kova init
 ```
 
+ウォレットのアドレスの確認方法
+
+```bash
+kova wallet info
+```
+
+試しに作成したウォレットアドレス
+
+0xe68a781FB90E97F93E384e6b1235453fE9173d74
+
+そしてClaude Codeを起動
+
+```bash
+claude
+```
+
 ## 参考文献
 - [チュートリアル記事](https://zenn.dev/komlock_lab/articles/kova-handson)
 - [kova 公式サイト](https://kova-agent.com/)
